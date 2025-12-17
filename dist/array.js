@@ -14,6 +14,7 @@ mixed.push("Maria");
 console.log(mixed);
 let userTuple;
 userTuple = [101, "Bob", true];
+// userTuple[3] = "25"
 console.log(userTuple[0]);
 console.log(userTuple[1]);
 console.log(userTuple[2]);
